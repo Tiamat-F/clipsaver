@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Original icon: a downward arrow landing in a tray. 108dp canvas, art kept inside the 66dp safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- arrow shaft -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,32h8v22h-8z" />
+    <!-- arrow head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,50h28l-14,15z" />
+    <!-- tray -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,64h6v6h24v-6h6v12h-36z" />
+</vector>
